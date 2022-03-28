@@ -4,7 +4,7 @@ inputs:
   update-libnx:
     description: '1 to update libnx'
     required: false
-    default: '0'
+    default: '1'
   cmd:
     description: 'Command line to execute'
     require: true
